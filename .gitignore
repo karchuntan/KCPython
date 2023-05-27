@@ -132,5 +132,9 @@ dmypy.json
 .mp4
 .mp3
 
+# folder
+mp4/
+mp3/
+
 # vscode settings
 .vscode/
